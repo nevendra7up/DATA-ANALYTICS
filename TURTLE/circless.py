@@ -1,6 +1,5 @@
 from turtle import *
 s=Screen()
-
 t=Turtle()
 pencolor('blue')
 pensize(4)
