@@ -2,8 +2,7 @@ from turtle import *
 s=Screen()
 s.setup(400,400)
 s.bgcolor('black')
-t=Turtle()
-t.speed('fastest')
+speed('fastest')
 
 
 pencolor('yellow')

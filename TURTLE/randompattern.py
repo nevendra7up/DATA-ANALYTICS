@@ -1,7 +1,6 @@
 from turtle import *
 import random
 s=Screen()
-t=Turtle()
 s.setup(500,500)
 colors=['orange','green','blue','purple']
 speed('fastest')

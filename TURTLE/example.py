@@ -1,12 +1,15 @@
+from this import d
 from turtle import *
-forward(100)
-left(90)
-forward(100)
-left(90)
-forward(100)
-left(90)
-forward(100)
-left(90)
+s=getscreen()
+t=Turtle()
+t.fillcolor('yellow')
+t.begin_fill()
+t.seth(-45)
+t.circle(300,90)
+t.circle(150//2,90)
+t.circle(300,90)
+t.circle(150//2,90)
+t.end_fill()
 
-mainloop()
 
+done()
